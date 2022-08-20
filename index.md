@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "My List for Sanity"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Check Out These Resources ...
